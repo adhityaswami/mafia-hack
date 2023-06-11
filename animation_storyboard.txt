@@ -1,0 +1,11 @@
+"Here, we have a simple representation of a cell's structure. First, the outer boundary of the cell is called the 'cell membrane' (vibrate: cell_membrane). Inside the cell, we have the 'cytoplasm' (vibrate: cytoplasm), which is a jelly-like substance that fills the cell and contains other organelles.
+
+Near the center of the cell, we have the 'nucleus' (vibrate: nucleus), which is enclosed by the 'nuclear membrane' (vibrate: nuclear_membrane). Inside the nucleus, we have the 'nucleolus' (vibrate: nucleolus), which is responsible for producing ribosomes.
+
+Scattered throughout the cell, we have 'mitochondria' (vibrate: mitochondria1 and mitochondria2), often referred to as the powerhouse of the cell, as they generate energy for the cell's activities. 
+
+Next, we have the 'endoplasmic reticulum' (vibrate: endoplasmic_reticulum), a series of interconnected tubes that help with the synthesis and transport of proteins. Attached to the endoplasmic reticulum, we have small 'ribosomes' (vibrate: ribosome1 and ribosome2), which are responsible for protein synthesis.
+
+The 'Golgi apparatus' (vibrate: golgi_apparatus and golgi_apparatus2) is another organelle that helps to package and transport proteins within the cell. You can see arrows (vibrate: arrow1 and arrow2) indicating the flow of proteins from the endoplasmic reticulum to the Golgi apparatus, and then out of the cell.
+
+Lastly, we have 'lysosomes' (vibrate: lysosome1 and lysosome2) and 'vacuoles' (vibrate: vacuole1 and vacuole2). Lysosomes contain enzymes that break down waste materials within the cell, while vacuoles are responsible for storing water, nutrients, and waste products."

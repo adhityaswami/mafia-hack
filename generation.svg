@@ -1,0 +1,48 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cell membrane -->
+  <circle cx="200" cy="200" r="190" stroke="black" fill="none" stroke-width="2" id="cell_membrane"/>
+
+  <!-- Cytoplasm -->
+  <path d="M40,200 Q170,60 350,200 Q170,340 40,200" fill="lightgrey" id="cytoplasm"/>
+
+  <!-- Nucleus -->
+  <circle cx="200" cy="200" r="70" stroke="black" fill="#ffeecc" stroke-width="2" id="nucleus"/>
+
+  <!-- Nuclear membrane -->
+  <circle cx="200" cy="200" r="65" stroke="black" fill="none" stroke-width="1" id="nuclear_membrane"/>
+
+  <!-- Nucleolus -->
+  <circle cx="200" cy="200" r="25" stroke="black" fill="white" stroke-width="2" id="nucleolus"/>
+
+  <!-- Mitochondria -->
+  <ellipse cx="100" cy="100" rx="15" ry="7" stroke="black" fill="red" stroke-width="1" id="mitochondria1"/>
+  <ellipse cx="300" cy="300" rx="15" ry="7" stroke="black" fill="red" stroke-width="1" id="mitochondria2"/>
+
+  <!-- Endoplasmic reticulum -->
+  <path d="M200,130 Q170,100 200,70 Q230,100 200,130" stroke="black" fill="none" stroke-width="2" id="endoplasmic_reticulum"/>
+
+  <!-- Ribosomes -->
+  <circle cx="170" cy="100" r="2" stroke="black" fill="blue" stroke-width="1" id="ribosome1"/>
+  <circle cx="230" cy="100" r="2" stroke="black" fill="blue" stroke-width="1" id="ribosome2"/>
+
+  <!-- Golgi apparatus -->
+  <path d="M250,85 Q260,80 270,85 T290,85" stroke="black" fill="none" stroke-width="2" id="golgi_apparatus"/>
+  <path d="M250,90 Q260,95 270,90 T290,90" stroke="black" fill="none" stroke-width="2" id="golgi_apparatus2"/>
+
+  <!-- Lysosomes -->
+  <circle cx="150" cy="280" r="5" stroke="black" fill="yellow" stroke-width="1" id="lysosome1"/>
+  <circle cx="250" cy="180" r="5" stroke="black" fill="yellow" stroke-width="1" id="lysosome2"/>
+
+  <!-- Vacuoles -->
+  <ellipse cx="100" cy="300" rx="20" ry="10" stroke="black" fill="green" stroke-width="1" id="vacuole1"/>
+  <ellipse cx="300" cy="100" rx="20" ry="10" stroke="black" fill="green" stroke-width="1" id="vacuole2"/>
+
+  <!-- Arrows -->
+  <path d="M210,80 Q220,60 230,80" stroke="black" fill="none" stroke-width="2" marker-end="url(#arrowhead)" id="arrow1"/>
+  <path d="M270,95 Q295,110 270,125" stroke="black" fill="none" stroke-width="2" marker-end="url(#arrowhead)" id="arrow2"/>
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="black"/>
+    </marker>
+  </defs>
+</svg>
